@@ -25,7 +25,11 @@ Install the required library:
 ```bash
 pip install requests
 ```
+## Configuration
 
+- Add your wordlists in the main directory or use a public wordlist.
+- You can modify the variable names in the payload directly in the code. You can find the correct parameter names by checking the website requests in the browser developer tools (F12).
+  
 ## Usage
 
 Run the script:
